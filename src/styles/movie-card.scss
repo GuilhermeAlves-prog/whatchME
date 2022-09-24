@@ -1,5 +1,7 @@
 .movie-card {
   position: relative;
+  transition: all 400ms ease-in;
+
 
   img {
     width: 14.31rem;
@@ -56,4 +58,8 @@
       }
     }
   }
+}
+.movie-card:hover {
+  transform: scale(1.1);
+  transition: all 200ms ease-in;
 }
