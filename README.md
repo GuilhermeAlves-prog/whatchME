@@ -36,5 +36,11 @@ yarn
 <br>
 
 <code>
+yarn server
+</code>
+<br>
+<br>
+
+<code>
 yarn dev
 </code>
