@@ -45,7 +45,7 @@ Nesse projeto tive como principal objetivo aprender a consumir uma API fake e es
 
 ```bash
   # Clonar o projeto:
-  $ git clone https://github.com/Gilles30/whatchme-ignite-desafio2
+  $ git clone https://github.com/GuilhermeAlves-prog/whatchME
 
   # Entrar no diretório:
   $ cd whatchme-ignite-desafio2
